@@ -3,7 +3,9 @@ A Convolutional Neural Network trained to detect a mask, using a Flask API.
 
 ## Requirements
 Flask
+
 Tensorflow 2.0.0
+
 Keras
 
 ## Overview
