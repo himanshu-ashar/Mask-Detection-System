@@ -13,3 +13,7 @@ A Flask API is created, and a model is trained with a dataset containing augment
 A convolutional neural network is trained for the purpose of detecting the output accurately.
 The model weights and model architecture are downloaded to create an object of the model.
 An instance of the object is called to detect a mask, when the device camera is opened.
+
+### Dataset
+The [dataset](https://github.com/prajnasb/observations/tree/master/experiements/data) contained augmented images of individuals, with masks added, and without masks.
+
